@@ -1,0 +1,10 @@
+# Binários gerados pelo go build
+*.exe
+*.out
+/bin/
+
+# Editores e sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
